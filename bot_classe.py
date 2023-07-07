@@ -21,7 +21,7 @@ while True:
 
     print(NICKNAMES.get(classe, DEFAULT))
 
-    confirm = input('Gostaria de manter essa classe? [S/n] ')
+    confirm = input('Gostaria de manter essa Classe? [S/n] ')
 
     if confirm in ['S', 's', '']:
         break
